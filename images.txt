@@ -9,8 +9,9 @@ chishin/nginx-proxy-manager-zh
 emby/embyserver:latest
 xhongc/music_tag_web:latest
 deluan/navidrome
-xternet/unraid-onlyoffice-document-server
+xternet/unraid-onlyoffice-document-server:b722d7ee269b89afabea70dce3acfdc8eca6d7e5
 qdtoday/qd
 whyour/qinglong:latest
 redis
 ajnart/homarr:latest
+onlyoffice/communityserver
