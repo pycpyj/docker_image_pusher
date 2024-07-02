@@ -1,7 +1,7 @@
-linuxserver/nextcloud
-linuxserver/mariadb
-linuxserver/code-server
-linuxserver/heimdall
+lscr.io/linuxserver/nextcloud
+lscr.io/linuxserver/mariadb
+lscr.io/linuxserver/code-server
+lscr.io/linuxserver/heimdall
 ahmadnassri/vscode-server
 iyuucn/iyuuplus-dev:latest
 xhofe/alist:latest
