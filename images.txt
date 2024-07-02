@@ -1,5 +1,16 @@
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+linuxserver/nextcloud
+linuxserver/mariadb
+linuxserver/code-server
+linuxserver/heimdall
+ahmadnassri/vscode-server
+iyuucn/iyuuplus-dev:latest
 xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+chishin/nginx-proxy-manager-zh
+emby/embyserver:latest
+xhongc/music_tag_web:latest
+deluan/navidrome
+xternet/unraid-onlyoffice-document-server
+qdtoday/qd
+whyour/qinglong:latest
+redis
+ajnart/homarr:latest
