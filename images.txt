@@ -14,4 +14,3 @@ qdtoday/qd
 whyour/qinglong:latest
 redis
 ajnart/homarr:latest
-onlyoffice/communityserver
