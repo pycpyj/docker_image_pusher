@@ -16,3 +16,4 @@ redis
 ajnart/homarr:latest
 onlyoffice/documentserver
 onlyoffice/communityserver
+fatedier/frp
